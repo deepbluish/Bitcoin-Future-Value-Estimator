@@ -5,6 +5,14 @@ This program calculates the future value of your Bitcoin portfolio.  The program
 incrementally moving up based on the amount of weeks until your sell date.  Yet, we have seen steady growth since the inception of bitcoin, so perhaps
 this tools may be useful when applied to higher timeframes.
 
+---
+
+Program Requirements:
+
+Needs PyQt5 (GPL) and Requests (Apache2.0) and created on Python 3.7.7.
+
+---
+
 Licensing: 
 
 QT and PyQt5: 
@@ -20,6 +28,3 @@ Licensed under the Apache License, Version 2.0 (the “License”); you may not 
 https://www.apache.org/licenses/LICENSE-2.0
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an “AS IS” BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
-Program Requirements:
-
-Needs PyQt5 (GPL) and Requests (Apache2.0) and created on Python 3.7.7.
